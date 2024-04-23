@@ -10,7 +10,7 @@
 </head>
 <body>
 
-	<h2>学生管理</h2>
+	<h2>学生管理だぁぁぁぁぁぁ！！！</h2>
 	<a href="StudentCreate.action">新規登録</a>
 
 	<form method="get">
