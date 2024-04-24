@@ -1,6 +1,7 @@
 package bean;
 
 public class User {
+	//リョタソンJr.です！！
 	/**
 	 * 認証済みフラグ:boolean true:認証済み
 	 */
