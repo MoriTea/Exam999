@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class School implements Serializable {
 
-	//柿崎です(^▽^)
+	//柿崎です(^▽^)/
 	/**
 	 * 学校コード:String
 	 */
