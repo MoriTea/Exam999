@@ -12,7 +12,7 @@ public class Student implements Serializable {
 	/**
 	 * 氏名:String
 	 */
-	private String name;
+	private String name;  //佐藤です(^^)/。aaaaabc
 
 	/**
 	 * 入学年度:int
