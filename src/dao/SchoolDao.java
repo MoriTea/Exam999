@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import bean.School;
-
+//うに丼
 public class SchoolDao extends Dao {
 	/**
 	 * getメソッド 学校コードを指定して学校インスタンスを１件取得する
