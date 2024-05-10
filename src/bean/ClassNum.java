@@ -3,7 +3,7 @@ package bean;
 import java.io.Serializable;
 
 public class ClassNum implements Serializable {
-	//森です！！
+	//森です！！！
 	/**
 	 * 学校:School
 	 */
